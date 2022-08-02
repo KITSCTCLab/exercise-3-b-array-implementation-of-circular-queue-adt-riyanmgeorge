@@ -1,24 +1,24 @@
 class MyCircularQueue:
     def __init__(self, size: int):
-        # Write code here
+        
 
     def enqueue(self, value: int) -> bool:
-        # Write code here
+        
 
     def dequeue(self) -> bool:
-        # Write code here
+        
 
     def get_front(self) -> int:
-        # Write code here
+        
 
     def get_rear(self):
-        # Write code here
+        
 
     def is_empty(self):
-        # Write code here
+        
 
     def is_full(self):
-        # Write code here
+        
 
 
 # Do not change the following code
